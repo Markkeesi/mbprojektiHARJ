@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Budgetlist" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/lime</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:textColor">@color/textMain</item>
+        <item name="colorControlActivated">@color/lime</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#0BA300</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">#FFFEFE</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/lime</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
